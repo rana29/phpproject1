@@ -1,0 +1,12 @@
+.col-sm-12{
+	
+	margin-left:400px;
+	border:1px solid gree;
+}
+.col-sm-12 input[type=submit]{
+	margin-left:100px;
+}
+p{
+	margin-left:400px;
+	margin-top:50px;
+}

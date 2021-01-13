@@ -1,0 +1,54 @@
+.item{
+	width:250px;
+	height:120px;
+	background-color:white;
+	border:1px solid #2473BF;
+}
+.color{
+	background-color:#2473BF;
+	width:415px;
+	height:80px;
+	
+}
+.fa-4x{
+	color:white;
+	margin-left:5px;
+}
+.ic{
+	float:left;
+}
+.p{
+	float:left;
+	margin-left:150px;
+	color:white;
+}
+.p p{
+	font-size:20px;
+}
+p{
+	margin-lef:120px;
+}
+.su{
+	float:right;
+}
+.su p{
+	font-size:18px;
+	color:white;
+}
+.down p{
+	margin-top:10px;
+	color:#2473BF;
+	float:left;
+}
+.down i{
+	color:#2473BF;
+	margin-left:130px;
+	margin-top:10px;
+}
+.main{
+	display:flex;
+}
+.item{
+	flex-grow:1;
+	margin-right:87px;
+}
